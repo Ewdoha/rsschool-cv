@@ -167,7 +167,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/phone.svg);
+    background-image: url(./assets/svg/phone.svg);
     background-repeat: no-repeat;
     background-size:14px;
 }
@@ -178,7 +178,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/mail.svg);
+    background-image: url(./assets/svg/mail.svg);
     background-repeat: no-repeat;
     background-size: 20px;
 }
@@ -189,7 +189,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/discord.svg);
+    background-image: url(./assets/svg/discord.svg);
     background-repeat: no-repeat;
     background-size: 20px;
 }
@@ -200,7 +200,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/git.png);
+    background-image: url(./assets/svg/git.png);
     background-repeat: no-repeat;
     background-size: 24px;
 }
@@ -211,7 +211,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/linkedin.svg);
+    background-image: url(./assets/svg/linkedin.svg);
     background-repeat: no-repeat;
     background-size: 20px;
 }
@@ -221,7 +221,7 @@ body {
     content: '';
     width: 30px;
     height: 30px;
-    background-image: url(../assets/svg/telegram.svg);
+    background-image: url(./assets/svg/telegram.svg);
     background-repeat: no-repeat;
     background-size: 20px;
 }
